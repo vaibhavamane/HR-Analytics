@@ -1,5 +1,5 @@
 # HR-Analytics
-***** Pruject Bootcamp Program *****
+***** Project Bootcamp Program *****
 
 *** Datasets ***
 1. Domain : HR Analytics
