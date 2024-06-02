@@ -15,3 +15,11 @@
 4) Average Working years for each Departments
 5) Job Role VS Work Life Balance
 6) Attrition rate VS Year since last promotion relation
+
+• Conducted A Detailed Analysis Of Human Resourse Data To Identify 
+Employee Retention And Engagement
+• Developed A Report Using Excel And Power Bi To Present The Findings 
+To The Management Team.
+• Analyze And Produce Trend Reports Required By Hr And Businesses 
+Partners
+• Optimizing Recruitment And Talent Acquisition.
