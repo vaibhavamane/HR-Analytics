@@ -23,3 +23,5 @@ To The Management Team.
 • Analyze And Produce Trend Reports Required By Hr And Businesses 
 Partners.  
 • Optimizing Recruitment And Talent Acquisition.
+
+Note : Dashboard were develop using different tools for analysysing and visualazing the data.
